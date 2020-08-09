@@ -6,6 +6,7 @@ public class IlkClass {
 
 		System.out.println("Buralardan selamlar");
 		system.out.println("remote degisiklik");
+		system.out.println("remote degisiklik222");
 	}
 
 }
